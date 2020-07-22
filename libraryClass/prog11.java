@@ -28,4 +28,7 @@ class prog11
                 x=""; //emptying the temporary variable to store next word
                 System.out.println(wrd);
 
-            }}}}
+            }
+        }
+    }
+}
